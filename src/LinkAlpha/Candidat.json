@@ -1,0 +1,1009 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "male",
+    "category": "MainBoard",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 185,
+    "size": 40
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "gender": "female",
+    "category": "New faces",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 170,
+    "size": 36
+  },
+  {
+    "id": 3,
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "gender": "male",
+    "category": "All",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 175,
+    "size": 42
+  },
+  {
+    "id": 4,
+    "firstName": "Emma",
+    "lastName": "Williams",
+    "gender": "female",
+    "category": "MainBoard",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 168,
+    "size": 38
+  },
+  {
+    "id": 5,
+    "firstName": "Christopher",
+    "lastName": "Brown",
+    "gender": "male",
+    "category": "Classics",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 180,
+    "size": 44
+  },
+  {
+    "id": 6,
+    "firstName": "Olivia",
+    "lastName": "Jones",
+    "gender": "female",
+    "category": "Influencers",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 172,
+    "size": 36
+  },
+  {
+    "id": 7,
+    "firstName": "William",
+    "lastName": "Garcia",
+    "gender": "male",
+    "category": "New faces",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 178,
+    "size": 40
+  },
+  {
+    "id": 8,
+    "firstName": "Sophia",
+    "lastName": "Rodriguez",
+    "gender": "female",
+    "category": "MainBoard",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 166,
+    "size": 34
+  },
+  {
+    "id": 9,
+    "firstName": "Ethan",
+    "lastName": "Martinez",
+    "gender": "male",
+    "category": "All",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 183,
+    "size": 42
+  },
+  {
+    "id": 10,
+    "firstName": "Isabella",
+    "lastName": "Hernandez",
+    "gender": "female",
+    "category": "Curve (women only)",
+    "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+    "height": 170,
+    "size": 38
+  },
+    {
+      "id": 11,
+      "firstName": "Alexander",
+      "lastName": "Lopez",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 176,
+      "size": 39
+    },
+    {
+      "id": 12,
+      "firstName": "Mia",
+      "lastName": "Gonzalez",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 169,
+      "size": 36
+    },
+    {
+      "id": 13,
+      "firstName": "James",
+      "lastName": "Perez",
+      "gender": "male",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 182,
+      "size": 42
+    },
+    {
+      "id": 14,
+      "firstName": "Charlotte",
+      "lastName": "Torres",
+      "gender": "female",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 167,
+      "size": 38
+    },
+    {
+      "id": 15,
+      "firstName": "Michael",
+      "lastName": "Rivera",
+      "gender": "male",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 179,
+      "size": 44
+    },
+    {
+      "id": 16,
+      "firstName": "Amelia",
+      "lastName": "Long",
+      "gender": "female",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 171,
+      "size": 36
+    },
+    {
+      "id": 17,
+      "firstName": "Benjamin",
+      "lastName": "Smith",
+      "gender": "male",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 177,
+      "size": 40
+    },
+    {
+      "id": 18,
+      "firstName": "Evelyn",
+      "lastName": "Scott",
+      "gender": "female",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 165,
+      "size": 34
+    },
+    {
+      "id": 19,
+      "firstName": "Daniel",
+      "lastName": "Adams",
+      "gender": "male",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 184,
+      "size": 42
+    },
+    {
+      "id": 20,
+      "firstName": "Scarlett",
+      "lastName": "Nguyen",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 171,
+      "size": 38
+    },
+    {
+      "id": 21,
+      "firstName": "William",
+      "lastName": "Tran",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 181,
+      "size": 40
+    },
+    {
+      "id": 22,
+      "firstName": "Olivia",
+      "lastName": "Wright",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 168,
+      "size": 36
+    },
+    {
+      "id": 23,
+      "firstName": "David",
+      "lastName": "Garcia",
+      "gender": "male",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 183,
+      "size": 42
+    },
+    {
+      "id": 24,
+      "firstName": "Sophia",
+      "lastName": "Martinez",
+      "gender": "female",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 170,
+      "size": 38
+    },
+    {
+      "id": 25,
+      "firstName": "Joseph",
+      "lastName": "Brown",
+      "gender": "male",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 180,
+      "size": 44
+    },
+    {
+      "id": 26,
+      "firstName": "Emily",
+      "lastName": "Lopez",
+      "gender": "female",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 172,
+      "size": 36
+    },
+    {
+      "id": 27,
+      "firstName": "Matthew",
+      "lastName": "Clark",
+      "gender": "male",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 178,
+      "size": 40
+    },
+    {
+      "id": 28,
+      "firstName": "Isabella",
+      "lastName": "Rodriguez",
+      "gender": "female",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 166,
+      "size": 34
+    },
+    {
+      "id": 29,
+      "firstName": "Christopher",
+      "lastName": "Hernandez",
+      "gender": "male",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 185,
+      "size": 42
+    },
+    {
+      "id": 30,
+      "firstName": "Ava",
+      "lastName": "Gonzalez",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 172,
+      "size": 38
+    },
+    {
+      "id": 31,
+      "firstName": "Daniel",
+      "lastName": "Perez",
+      "gender": "male",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 179,
+      "size": 42
+    },
+    {
+      "id": 32,
+      "firstName": "Mia",
+      "lastName": "Sanchez",
+      "gender": "female",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 170,
+      "size": 36
+    },
+    {
+      "id": 33,
+      "firstName": "Andrew",
+      "lastName": "Smith",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 182,
+      "size": 40
+    },
+    {
+      "id": 34,
+      "firstName": "Abigail",
+      "lastName": "Kim",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 165,
+      "size": 34
+    },
+    {
+      "id": 35,
+      "firstName": "James",
+      "lastName": "Lee",
+      "gender": "male",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 177,
+      "size": 38
+    },
+    {
+      "id": 36,
+      "firstName": "Charlotte",
+      "lastName": "Nguyen",
+      "gender": "female",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 171,
+      "size": 36
+    },
+    {
+      "id": 37,
+      "firstName": "Alexander",
+      "lastName": "Gomez",
+      "gender": "male",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 183,
+      "size": 42
+    },
+    {
+      "id": 38,
+      "firstName": "Lily",
+      "lastName": "Wong",
+      "gender": "female",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 168,
+      "size": 34
+    },
+    {
+      "id": 39,
+      "firstName": "Benjamin",
+      "lastName": "Ruiz",
+      "gender": "male",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 180,
+      "size": 40
+    },
+    {
+      "id": 40,
+      "firstName": "Natalie",
+      "lastName": "Chen",
+      "gender": "female",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 170,
+      "size": 36
+    },
+    {
+      "id": 41,
+      "firstName": "Oliver",
+      "lastName": "Hernandez",
+      "gender": "male",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 178,
+      "size": 38
+    },
+    {
+      "id": 42,
+      "firstName": "Sophia",
+      "lastName": "Park",
+      "gender": "female",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 172,
+      "size": 35
+    },
+    {
+      "id": 43,
+      "firstName": "William",
+      "lastName": "Martinez",
+      "gender": "male",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 181,
+      "size": 39
+    },
+    {
+      "id": 44,
+      "firstName": "Amelia",
+      "lastName": "Garcia",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 166,
+      "size": 34
+    },
+    {
+      "id": 45,
+      "firstName": "Ethan",
+      "lastName": "Nguyen",
+      "gender": "male",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 179,
+      "size": 40
+    },
+    {
+      "id": 46,
+      "firstName": "Isabella",
+      "lastName": "Huang",
+      "gender": "female",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 169,
+      "size": 36
+    },
+    {
+      "id": 47,
+      "firstName": "Michael",
+      "lastName": "Kim",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 183,
+      "size": 42
+    },
+    {
+      "id": 48,
+      "firstName": "Emily",
+      "lastName": "Lopez",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 167,
+      "size": 35
+    },
+    {
+      "id": 49,
+      "firstName": "Matthew",
+      "lastName": "Smith",
+      "gender": "male",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 185,
+      "size": 40
+    },
+    {
+      "id": 50,
+      "firstName": "Ava",
+      "lastName": "Wang",
+      "gender": "female",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 171,
+      "size": 36
+    },
+    {
+      "id": 51,
+      "firstName": "Liam",
+      "lastName": "Nguyen",
+      "gender": "male",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 180,
+      "size": 38
+    },
+    {
+      "id": 52,
+      "firstName": "Charlotte",
+      "lastName": "Rodriguez",
+      "gender": "female",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 168,
+      "size": 34
+    },
+    {
+      "id": 53,
+      "firstName": "Noah",
+      "lastName": "Martinez",
+      "gender": "male",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 184,
+      "size": 41
+    },
+    {
+      "id": 54,
+      "firstName": "Mia",
+      "lastName": "Garcia",
+      "gender": "female",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 170,
+      "size": 35
+    },
+    {
+      "id": 55,
+      "firstName": "James",
+      "lastName": "Lopez",
+      "gender": "male",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 182,
+      "size": 39
+    },
+    {
+      "id": 56,
+      "firstName": "Evelyn",
+      "lastName": "Lee",
+      "gender": "female",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 172,
+      "size": 36
+    },
+    {
+      "id": 57,
+      "firstName": "Benjamin",
+      "lastName": "Wang",
+      "gender": "male",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 186,
+      "size": 40
+    },
+    {
+      "id": 58,
+      "firstName": "Abigail",
+      "lastName": "Hernandez",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 168,
+      "size": 35
+    },
+    {
+      "id": 59,
+      "firstName": "Lucas",
+      "lastName": "Park",
+      "gender": "male",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 185,
+      "size": 41
+    },
+    {
+      "id": 60,
+      "firstName": "Harper",
+      "lastName": "Kim",
+      "gender": "female",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 169,
+      "size": 36
+    },
+    {
+      "id": 61,
+      "firstName": "Alexander",
+      "lastName": "Tran",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 188,
+      "size": 42
+    },
+    {
+      "id": 62,
+      "firstName": "Ella",
+      "lastName": "Nguyen",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 171,
+      "size": 37
+    },
+    {
+      "id": 63,
+      "firstName": "Daniel",
+      "lastName": "Gonzalez",
+      "gender": "male",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 190,
+      "size": 43
+    },
+    {
+      "id": 64,
+      "firstName": "Grace",
+      "lastName": "Martinez",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 173,
+      "size": 38
+    },
+    {
+      "id": 65,
+      "firstName": "William",
+      "lastName": "Chen",
+      "gender": "male",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 192,
+      "size": 44
+    },
+    {
+      "id": 66,
+      "firstName": "Victoria",
+      "lastName": "Wong",
+      "gender": "female",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 172,
+      "size": 39
+    },
+    {
+      "id": 67,
+      "firstName": "Michael",
+      "lastName": "Nguyen",
+      "gender": "male",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 194,
+      "size": 45
+    },
+    {
+      "id": 68,
+      "firstName": "Aurora",
+      "lastName": "Hernandez",
+      "gender": "female",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 170,
+      "size": 40
+    },
+    {
+      "id": 69,
+      "firstName": "Henry",
+      "lastName": "Nguyen",
+      "gender": "male",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 196,
+      "size": 46
+    },
+    {
+      "id": 70,
+      "firstName": "Luna",
+      "lastName": "Garcia",
+      "gender": "female",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 171,
+      "size": 41
+    },
+    {
+      "id": 71,
+      "firstName": "Ethan",
+      "lastName": "Gomez",
+      "gender": "male",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 189,
+      "size": 42
+    },
+    {
+      "id": 72,
+      "firstName": "Amelia",
+      "lastName": "Diaz",
+      "gender": "female",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 174,
+      "size": 37
+    },
+    {
+      "id": 73,
+      "firstName": "Mason",
+      "lastName": "Perez",
+      "gender": "male",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 188,
+      "size": 43
+    },
+    {
+      "id": 74,
+      "firstName": "Harper",
+      "lastName": "Torres",
+      "gender": "female",
+      "category": "All",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 170,
+      "size": 38
+    },
+    {
+      "id": 75,
+      "firstName": "Lucas",
+      "lastName": "Rivera",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 190,
+      "size": 44
+    },
+    {
+      "id": 76,
+      "firstName": "Evelyn",
+      "lastName": "Long",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 173,
+      "size": 39
+    },
+    {
+      "id": 77,
+      "firstName": "Oliver",
+      "lastName": "Scott",
+      "gender": "male",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 188,
+      "size": 45
+    },
+    {
+      "id": 78,
+      "firstName": "Hailey",
+      "lastName": "Page",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 172,
+      "size": 40
+    },
+    {
+      "id": 79,
+      "firstName": "Benjamin",
+      "lastName": "Lee",
+      "gender": "male",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 192,
+      "size": 46
+    },
+    {
+      "id": 80,
+      "firstName": "Scarlett",
+      "lastName": "Nguyen",
+      "gender": "female",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 169,
+      "size": 41
+    },
+    {
+      "id": 81,
+      "firstName": "Alexander",
+      "lastName": "Kim",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 187,
+      "size": 42
+    },
+    {
+      "id": 82,
+      "firstName": "Madison",
+      "lastName": "Gonzalez",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 171,
+      "size": 37
+    },
+    {
+      "id": 83,
+      "firstName": "James",
+      "lastName": "Martinez",
+      "gender": "male",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 189,
+      "size": 43
+    },
+    {
+      "id": 84,
+      "firstName": "Grace",
+      "lastName": "Wang",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 168,
+      "size": 38
+    },
+    {
+      "id": 85,
+      "firstName": "Joseph",
+      "lastName": "Young",
+      "gender": "male",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 191,
+      "size": 44
+    },
+    {
+      "id": 86,
+      "firstName": "Chloe",
+      "lastName": "Hernandez",
+      "gender": "female",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 170,
+      "size": 39
+    },
+    {
+      "id": 87,
+      "firstName": "Daniel",
+      "lastName": "Chen",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 186,
+      "size": 45
+    },
+    {
+      "id": 88,
+      "firstName": "Lily",
+      "lastName": "Lam",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 172,
+      "size": 40
+    },
+    {
+      "id": 89,
+      "firstName": "Michael",
+      "lastName": "Ng",
+      "gender": "male",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 190,
+      "size": 46
+    },
+    {
+      "id": 90,
+      "firstName": "Zoe",
+      "lastName": "Singh",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 169,
+      "size": 41
+    },
+    {
+      "id": 91,
+      "firstName": "William",
+      "lastName": "Goh",
+      "gender": "male",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 192,
+      "size": 47
+    },
+    {
+      "id": 92,
+      "firstName": "Emily",
+      "lastName": "Lee",
+      "gender": "female",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 173,
+      "size": 42
+    },
+    {
+      "id": 93,
+      "firstName": "David",
+      "lastName": "Tan",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 185,
+      "size": 47
+    },
+    {
+      "id": 94,
+      "firstName": "Sophia",
+      "lastName": "Chan",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 174,
+      "size": 43
+    },
+    {
+      "id": 95,
+      "firstName": "Andrew",
+      "lastName": "Wong",
+      "gender": "male",
+      "category": "Classics",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 191,
+      "size": 48
+    },
+    {
+      "id": 96,
+      "firstName": "Ava",
+      "lastName": "Lim",
+      "gender": "female",
+      "category": "Curve (women only)",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 175,
+      "size": 44
+    },
+    {
+      "id": 97,
+      "firstName": "Ryan",
+      "lastName": "Ho",
+      "gender": "male",
+      "category": "Influencers",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 190,
+      "size": 49
+    },
+    {
+      "id": 98,
+      "firstName": "Emma",
+      "lastName": "Tan",
+      "gender": "female",
+      "category": "Talent",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 176,
+      "size": 45
+    },
+    {
+      "id": 99,
+      "firstName": "Matthew",
+      "lastName": "Ong",
+      "gender": "male",
+      "category": "MainBoard",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 189,
+      "size": 50
+    },
+    {
+      "id": 100,
+      "firstName": "Olivia",
+      "lastName": "Lim",
+      "gender": "female",
+      "category": "New faces",
+      "image": "../Candidat/Capture d’écran 2021-07-23 à 14.12.38.png",
+      "height": 177,
+      "size": 46
+    }
+  ]
+
+
+
+
+
+
+

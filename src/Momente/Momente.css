@@ -1,0 +1,32 @@
+
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap:2px;
+}
+.grid1{
+    background-color: red;
+    height: 120px;
+    width: 120px;
+}
+.grid2{
+    background-color: red;
+    height: 120px;
+    width: 120px;
+}
+.grid3{
+    background-color: red;
+    height: 120px;
+    width: 120px;
+}
+
+.interested{
+    background-color: rgb(112, 112, 184);
+    margin-top: 100px;
+    height:330px;
+    display: flex;
+    text-align: center;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+}

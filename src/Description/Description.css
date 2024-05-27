@@ -1,0 +1,6 @@
+.pictures img {
+    width: 330px; /* Assurez-vous que les images ne dépassent pas leur conteneur */
+    height: 430px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
